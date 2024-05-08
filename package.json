@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.",
   "homepage": "https://flyer.chat",
-  "private": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/nadavkli/react-native-chat-ui.git"
@@ -29,7 +28,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public"
+    "access": "restricted"
   },
   "scripts": {
     "compile": "rm -rf lib && tsc -p . && copyup src/assets/*.png lib",
