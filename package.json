@@ -1,5 +1,5 @@
 {
-  "name": "@nadavkli/react-native-chat-ui",
+  "name": "@nadavklin/react-native-chat-ui",
   "version": "1.0.0",
   "description": "Actively maintained, community-driven chat UI implementation with an optional Firebase BaaS.",
   "homepage": "https://flyer.chat",
